@@ -16,13 +16,15 @@ Add your name to this list below 'Entries'.
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
 Your entry should maintain alphabetic order and it should be in the format:
-   * ` Debajit Chakraborty [debajit15](http://github.com/debajit15)`.  
+   * ` your name [username](http://github.com/username)`.  
 
 
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+
+`Debajit Chakraborty [debajit15kgp](http://github.com/debajit15)`.
 
 ## Task 2
 
